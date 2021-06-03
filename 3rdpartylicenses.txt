@@ -87,8 +87,6 @@ THE SOFTWARE.
 
 @angular/material/button
 
-@angular/material/button-toggle
-
 @angular/material/card
 
 @angular/material/core
@@ -101,7 +99,13 @@ THE SOFTWARE.
 
 @angular/material/icon
 
+@angular/material/list
+
 @angular/material/select
+
+@angular/material/sidenav
+
+@angular/material/toolbar
 
 @angular/platform-browser
 MIT
